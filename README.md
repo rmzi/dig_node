@@ -13,9 +13,7 @@ Wanted to write a small script in Node that replicated a single function of the 
 Usage:
   - `./test_dig <FQDN>`
 
-```
 * You might need to `chmod a+x test_dig` to run as above.
-```
 
 ## Who
 Author: @rmzi
